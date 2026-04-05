@@ -1,4 +1,4 @@
-# 1v1 Rev
+# 1v1 Revision
 
 A gamified revision app where students compete in 1v1 question battles to climb the ranks.
 

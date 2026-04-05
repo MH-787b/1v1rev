@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "1v1 Rev — Battle. Learn. Rank Up.",
+  title: "1v1 Revision — Battle. Learn. Rank Up.",
   description: "Gamified revision battles for GCSE students. Compete 1v1, climb the ranks, master your subjects.",
 };
 

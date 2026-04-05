@@ -33,7 +33,7 @@ export function Navbar() {
             <span className="text-cyan text-xs font-mono font-bold">1v1</span>
           </motion.div>
           <span className="font-mono text-sm tracking-[0.3em] text-cyan glow-text">
-            REV
+            REVISION
           </span>
         </Link>
 

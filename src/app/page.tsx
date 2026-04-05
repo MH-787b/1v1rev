@@ -79,7 +79,7 @@ export default function Home() {
           >
             <h1 className="text-6xl md:text-8xl font-bold tracking-tight leading-none mb-2">
               <GlitchText text="1v1" className="text-cyan glow-text" />
-              <span className="text-text-primary"> REV</span>
+              <span className="text-text-primary"> REVISION</span>
             </h1>
           </motion.div>
 
@@ -283,7 +283,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-border py-8 px-6">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <span className="font-mono text-xs text-text-muted tracking-wider">
-            1v1 REV © 2026
+            1v1 REVISION © 2026
           </span>
           <div className="flex gap-6 font-mono text-xs text-text-muted">
             <span className="hover:text-text-secondary cursor-pointer transition-colors">TERMS</span>
